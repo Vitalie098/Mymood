@@ -1,0 +1,49 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mymood-staging-191929-authRole",
+      "UnauthRoleArn": "arn:aws:iam::718476571584:role/amplify-mymood-staging-191929-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::718476571584:role/amplify-mymood-staging-191929-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-mymood-staging-191929-deployment",
+      "UnauthRoleName": "amplify-mymood-staging-191929-unauthRole",
+      "StackName": "amplify-mymood-staging-191929",
+      "StackId": "arn:aws:cloudformation:eu-central-1:718476571584:stack/amplify-mymood-staging-191929/2e094810-a653-11ed-89cb-027c7d824d38",
+      "AmplifyAppId": "d1tbpju0trnhrs",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-mymood-staging-191929-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "mymood": {}
+      },
+      "function": {
+        "mymoodPostConfirmation": {
+          "deploymentBucketName": "amplify-mymood-staging-191929-deployment",
+          "s3Key": "amplify-builds/mymoodPostConfirmation-4e427370305949393852-build.zip"
+        },
+        "UserFollowTrigger": {
+          "deploymentBucketName": "amplify-mymood-staging-191929-deployment",
+          "s3Key": "amplify-builds/UserFollowTrigger-38303155514b30467859-build.zip"
+        },
+        "FeedGenerator": {
+          "deploymentBucketName": "amplify-mymood-staging-191929-deployment",
+          "s3Key": "amplify-builds/FeedGenerator-4f50795349505730496a-build.zip"
+        },
+        "FleetGenerator": {
+          "deploymentBucketName": "amplify-mymood-staging-191929-deployment",
+          "s3Key": "amplify-builds/FleetGenerator-3639724835626d4a594b-build.zip"
+        },
+        "NotificationTrigger": {
+          "deploymentBucketName": "amplify-mymood-staging-191929-deployment",
+          "s3Key": "amplify-builds/NotificationTrigger-44776b4a6c544e314f4d-build.zip"
+        }
+      },
+      "api": {
+        "mymood": {}
+      },
+      "storage": {
+        "storage": {}
+      }
+    }
+  }
+}

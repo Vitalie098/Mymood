@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "155551676275",
+    "project_id": "mymood-5b79e",
+    "storage_bucket": "mymood-5b79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155551676275:android:0750b78817c351b6e73706",
+        "android_client_info": {
+          "package_name": "com.mymood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155551676275-5d9vc0ihq4es3nb5p8hl3v5805m63qcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnq5hJLkheP66E9GRqBCxxCYgKAIpE1Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155551676275-5d9vc0ihq4es3nb5p8hl3v5805m63qcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155551676275-umetgtd8il0g4ndal5n6oo5erhd6h9jn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mymood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155551676275:android:017af520691fa51be73706",
+        "android_client_info": {
+          "package_name": "com.mymood1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155551676275-spie5m3hcnhf3dus1gcsn8f46k7vq3m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mymood1",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "155551676275-5d9vc0ihq4es3nb5p8hl3v5805m63qcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnq5hJLkheP66E9GRqBCxxCYgKAIpE1Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155551676275-5d9vc0ihq4es3nb5p8hl3v5805m63qcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "155551676275-umetgtd8il0g4ndal5n6oo5erhd6h9jn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mymood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

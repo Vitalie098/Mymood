@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "api": {
+      "mymood": [
+        "Query"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
